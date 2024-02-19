@@ -1,5 +1,5 @@
 - 👋 Hi, I’m hansraj
-- 👀 I’m interested in learing more
+- 👀 I’m interested in learing more skills
 - 🌱 I’m currently learning frontend skils
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
